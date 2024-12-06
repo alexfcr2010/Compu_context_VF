@@ -1,8 +1,8 @@
 format: jb-book
 root: intro
 chapters:
-  - file: P1/Project_1.ipynb
-  - file: P2/Project_2.ipynb
+  - file: /Users/alexcanas/Documents/1. Columbia University/Fall2024/4. Computing in context/Compu_context_VF/P1/Proj1.ipynb
+  - file: /Users/alexcanas/Documents/1. Columbia University/Fall2024/4. Computing in context/Compu_context_VF/P2/Proj2.ipynb
 
 
 
