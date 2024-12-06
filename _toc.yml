@@ -1,4 +1,8 @@
 format: jb-book
-root: lab_12
+root: intro
 chapters:
-  - file: project_3
+  - file: P1/Project_1.ipynb
+  - file: P2/Project_2.ipynb
+
+
+
